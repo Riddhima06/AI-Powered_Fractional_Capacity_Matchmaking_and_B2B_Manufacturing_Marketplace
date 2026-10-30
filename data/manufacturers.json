@@ -1,0 +1,211 @@
+{
+  "disclaimer": "ALL MANUFACTURERS BELOW ARE FICTIONAL DEMO DATA. They do not represent real companies.",
+  "manufacturers": [
+    {
+      "id": 1,
+      "company_name": "Alpha Precision Works",
+      "location": "Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "capabilities": [
+        "CNC Machining",
+        "Laser Cutting"
+      ],
+      "materials": [
+        "Aluminium",
+        "Stainless Steel"
+      ],
+      "daily_capacity": 1000,
+      "lead_time_days": 7,
+      "demo_data": true
+    },
+    {
+      "id": 2,
+      "company_name": "Gurgaon Turnworks",
+      "location": "Gurgaon",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "capabilities": [
+        "CNC Machining"
+      ],
+      "materials": [
+        "Aluminium",
+        "Brass",
+        "Mild Steel"
+      ],
+      "daily_capacity": 400,
+      "lead_time_days": 5,
+      "demo_data": true
+    },
+    {
+      "id": 3,
+      "company_name": "Western Machining Hub",
+      "location": "Pune",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "capabilities": [
+        "CNC Machining",
+        "Sheet Metal Fabrication"
+      ],
+      "materials": [
+        "Aluminium",
+        "Mild Steel",
+        "Stainless Steel"
+      ],
+      "daily_capacity": 800,
+      "lead_time_days": 9,
+      "demo_data": true
+    },
+    {
+      "id": 4,
+      "company_name": "Deccan Polymers",
+      "location": "Hyderabad",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "capabilities": [
+        "Injection Molding"
+      ],
+      "materials": [
+        "ABS Plastic",
+        "Polypropylene",
+        "Nylon"
+      ],
+      "daily_capacity": 5000,
+      "lead_time_days": 12,
+      "demo_data": true
+    },
+    {
+      "id": 5,
+      "company_name": "Mumbai Moulding Co",
+      "location": "Mumbai",
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "capabilities": [
+        "Injection Molding",
+        "3D Printing"
+      ],
+      "materials": [
+        "ABS Plastic",
+        "Polycarbonate",
+        "Nylon"
+      ],
+      "daily_capacity": 3000,
+      "lead_time_days": 10,
+      "demo_data": true
+    },
+    {
+      "id": 6,
+      "company_name": "Laser Craft Industries",
+      "location": "Ludhiana",
+      "latitude": 30.901,
+      "longitude": 75.8573,
+      "capabilities": [
+        "Laser Cutting",
+        "Sheet Metal Fabrication"
+      ],
+      "materials": [
+        "Stainless Steel",
+        "Mild Steel",
+        "Aluminium"
+      ],
+      "daily_capacity": 2500,
+      "lead_time_days": 6,
+      "demo_data": true
+    },
+    {
+      "id": 7,
+      "company_name": "Chennai Additive Labs",
+      "location": "Chennai",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "capabilities": [
+        "3D Printing"
+      ],
+      "materials": [
+        "Nylon",
+        "ABS Plastic",
+        "Polycarbonate"
+      ],
+      "daily_capacity": 150,
+      "lead_time_days": 4,
+      "demo_data": true
+    },
+    {
+      "id": 8,
+      "company_name": "Rapid Proto Bengaluru",
+      "location": "Bengaluru",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "capabilities": [
+        "3D Printing",
+        "CNC Machining"
+      ],
+      "materials": [
+        "Nylon",
+        "Aluminium",
+        "ABS Plastic"
+      ],
+      "daily_capacity": 200,
+      "lead_time_days": 5,
+      "demo_data": true
+    },
+    {
+      "id": 9,
+      "company_name": "Jaipur Metal Works",
+      "location": "Jaipur",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "capabilities": [
+        "Laser Cutting",
+        "Welding",
+        "Sheet Metal Fabrication"
+      ],
+      "materials": [
+        "Stainless Steel",
+        "Mild Steel",
+        "Brass"
+      ],
+      "daily_capacity": 1200,
+      "lead_time_days": 8,
+      "demo_data": true
+    },
+    {
+      "id": 10,
+      "company_name": "Ahmedabad Die Cast",
+      "location": "Ahmedabad",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "capabilities": [
+        "Die Casting",
+        "CNC Machining"
+      ],
+      "materials": [
+        "Aluminium",
+        "Brass",
+        "Copper"
+      ],
+      "daily_capacity": 600,
+      "lead_time_days": 14,
+      "demo_data": true
+    },
+    {
+      "id": 11,
+      "company_name": "Coimbatore Precision",
+      "location": "Coimbatore",
+      "latitude": 11.0168,
+      "longitude": 76.9558,
+      "capabilities": [
+        "CNC Machining",
+        "Welding"
+      ],
+      "materials": [
+        "Mild Steel",
+        "Stainless Steel",
+        "Brass"
+      ],
+      "daily_capacity": 300,
+      "lead_time_days": 11,
+      "demo_data": true
+    }
+  ]
+}
